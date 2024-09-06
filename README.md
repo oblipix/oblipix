@@ -14,3 +14,10 @@ Estou sempre aberta a colaborar em novos projetos e trocar conhecimentos! Vamos 
 
 📫 **Entre em contato:**
 - [LinkedIn]([#https://www.linkedin.com/in/carolinavs/]
+
+
+
+
+
+
+
