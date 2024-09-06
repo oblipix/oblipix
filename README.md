@@ -1,6 +1,6 @@
 ### Olá, eu sou a Maria Carolina! 👋
 
-Estou estudando **Análise e Desenvolvimento de Sistemas** e tenho uma grande paixão pelo **front-end** e pela **criação de interfaces incríveis**.
+Tenho uma grande paixão pelo **front-end** e pela **criação de interfaces incríveis**.
 
 
 
@@ -8,7 +8,7 @@ Estou estudando **Análise e Desenvolvimento de Sistemas** e tenho uma grande pa
 - 🎓 Estudante dedicada de análise e desenvolvimento de sistemas.
 - 💡 Apaixonada por desenvolvimento front-end.
 - 📚 Sempre aprendendo e buscando novos desafios.
-
+- 🎮 sou Gamer, amo league of legends e pokemons 
 
 Estou sempre aberta a colaborar em novos projetos e trocar conhecimentos! Vamos nos conectar e criar algo incrível juntos. 🚀
 
