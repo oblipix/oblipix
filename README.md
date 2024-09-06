@@ -2,7 +2,7 @@
 
 Estou estudando **Análise e Desenvolvimento de Sistemas** e tenho uma grande paixão pelo **front-end** e pela **criação de interfaces incríveis**.
 
-Atualmente, estou me aprofundando em **HTML5**, **CSS3** e **React** para construir aplicações web modernas e responsivas.
+
 
 ✨ **Sobre mim:**
 - 🎓 Estudante dedicada de análise e desenvolvimento de sistemas.
