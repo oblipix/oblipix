@@ -20,7 +20,7 @@ Estou sempre aberta a colaborar em novos projetos e trocar conhecimentos! Vamos 
 
 
 
-<img src="https://github.com/user-attachments/assets/f8fcf661-f6ae-4a2a-9c72-81b0105cce0d" alt="Badge" width="80">
+<img src="https://github.com/user-attachments/assets/f8fcf661-f6ae-4a2a-9c72-81b0105cce0d" alt="Badge" width="95">
 
 
 
