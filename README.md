@@ -18,8 +18,7 @@ Tenho uma grande paixão pelo **front-end** e pela **criação de interfaces inc
 
 Estou sempre aberta a colaborar em novos projetos e trocar conhecimentos! Vamos nos conectar e criar algo incrível juntos. 🚀
 
-📫 **Entre em contato:**
-- [LinkedIn]([#https://www.linkedin.com/in/carolinavs/]
+
 
 
 
