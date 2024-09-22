@@ -11,7 +11,7 @@ Tenho uma grande paixão pelo **front-end** e pela **criação de interfaces inc
 - 🎮 sou Gamer, amo league of legends e pokemons
 
 
-<img src="https://github.com/user-attachments/assets/f8fcf661-f6ae-4a2a-9c72-81b0105cce0d" alt="Badge" width="150">
+<img src="https://github.com/user-attachments/assets/f8fcf661-f6ae-4a2a-9c72-81b0105cce0d" alt="Badge" width="80">
 
 
 
