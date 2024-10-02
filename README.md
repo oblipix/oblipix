@@ -1,3 +1,7 @@
+
+![](https://komarev.com/ghpvc/?username=oblipix&color=48D1CC)
+
+
 ### Olá, eu sou a Maria Carolina! 👋
 
 Tenho uma grande paixão pelo **front-end** e pela **criação de interfaces incríveis**.
