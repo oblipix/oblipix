@@ -9,7 +9,7 @@ Tenho uma grande paixão pelo **front-end** e pela **criação de interfaces inc
 
 
 ✨ **Sobre mim:**
-- 🎓 Estudante dedicada de análise e desenvolvimento de sistemas.
+- 🎓 Graduanda de análise e desenvolvimento de sistemas e Pós Graduanda em Engenharia de Software
 - 💡 Apaixonada por desenvolvimento front-end.
 - 📚 Sempre aprendendo e buscando novos desafios.
 - 🎮 sou Gamer, amo league of legends e pokemons
