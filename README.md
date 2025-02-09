@@ -78,3 +78,24 @@
 </div>
 
 
+
+
+## 📲 Connect with me:
+<div  align="center">
+<a href="https://www.linkedin.com/in/mariacarolinalv/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-D2B48C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
+</a>
+
+  <a href="mailto:mariacarolinatech@gmail.com" target="_blank" style="margin-right: 10px;">
+     <img src="https://img.shields.io/badge/-Email-D2B48C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100" height="30" />
+</a>
+ </div>
+
+<br> 
+
+<div  align="center">
+<img width="100%"src="https://i.pinimg.com/736x/3b/91/66/3b9166b2907655a04c1f50f54960e218.jpg"/>
+</div>
+
+
+
