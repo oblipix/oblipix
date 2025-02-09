@@ -1,4 +1,7 @@
-![Beige and Brown Fashion Twitter Header](https://github.com/user-attachments/assets/32487d53-bdd2-48e3-860e-3af754281b75)
+![Beige and Brown Fashion Twitter Header](https://github.com/user-attachments/assets/64ab63f3-8f17-48ed-8172-5faf8caade6c)
+
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2B48C&width=435&separator=%3C&lines=const+nome+%3D+%22Maria+Carolina%22%3Cconsole.log(%60Hello%2C+%24%7BWorld%7D!%60);" alt="Typing SVG" /></a>
 
 
