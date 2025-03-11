@@ -24,7 +24,7 @@
 
 
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 
 ## 🛠️ Working with: 
   <table align="center">
@@ -50,12 +50,16 @@
             <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" alt="javascript-logo"/>
             <br>Javascript
         </td>
+          <td align="center">
+            <img  style="width: 90%; max-width: 300px;" src="https://i.postimg.cc/90JpKPCJ/icons8-angular-128.png" alt="angular-logo"/>
+            <br>Angular
+        </td>
        
     
 </table>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 
 ##  📊 Stats  
 <div align="center">
@@ -71,14 +75,18 @@
 
 <p align="center">
 <a href="https://git.io/streak-stats">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=oblipix&theme=omni&background=00000000&border=F5F5F5&ring=D2B48C&stroke=D2B48C&fire=D2B48C&currStreakNum=D2B48C&sideNums=D2B48C&currStreakLabel=D2B48C&dates=D2B48C&sideLabels=D2B48C" alt="GitHub Streak" />
+    <img width="50%" src="https://streak-stats.demolab.com?user=oblipix&theme=transparent&background=00000000&border=F5F5F5&ring=D2B48C&stroke=D2B48C&fire=D2B48C&currStreakNum=D2B48C&sideNums=D2B48C&currStreakLabel=D2B48C&dates=D2B48C&sideLabels=D2B48C" alt="GitHub Streak" />
 </a>
 
 
+
 </div>
-
-
-
+ㅤ
+ㅤㅤㅤㅤㅤ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+ㅤ
+ㅤㅤㅤㅤ
+ㅤㅤㅤㅤ
+ㅤㅤㅤㅤㅤ
 
 ## 📲 Connect with me:
 <div  align="center">
