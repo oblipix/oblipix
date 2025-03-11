@@ -51,7 +51,7 @@
             <br>Javascript
         </td>
           <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://i.postimg.cc/90JpKPCJ/icons8-angular-128.png" alt="angular-logo"/>
+            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=AqUNZvhJiaKK&format=png&color=000000" alt="angular-logo"/>
             <br>Angular
         </td>
        
