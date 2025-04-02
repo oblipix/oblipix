@@ -64,19 +64,17 @@
 ##  📊 Stats  
 <div align="center">
       ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oblipix&cardType=github&bg_color=00000000&Text=000&title_color=D2B48C&border_color=F5F5F5&card_width=50" alt="readme-typing-svg">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oblipix&cardType=github&bg_color=00000000&Text=654321&title_color=654321&border_color=654321&card_width=50" alt="readme-typing-svg">
 
-
- 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=F5F5F5F5&Ring=f5f5f5&Border=F5F5F5">
-    <img   width="50%"  alt="Oblipix's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/oblipix?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=D2B48C&Title=D2B48C&Ring=D2B48C&Border=F5F5F5" />
-  </a>
-</p>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=654321&Title=654321&Ring=654321&Border=654321">
+    <img width="50%" alt="Oblipix's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/oblipix?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=654321&Title=654321&Ring=654321&Border=654321" />
+</a>
 
 <p align="center">
 <a href="https://git.io/streak-stats">
-    <img width="50%" src="https://streak-stats.demolab.com?user=oblipix&theme=transparent&background=00000000&border=F5F5F5&ring=D2B48C&stroke=D2B48C&fire=D2B48C&currStreakNum=D2B48C&sideNums=D2B48C&currStreakLabel=D2B48C&dates=D2B48C&sideLabels=D2B48C" alt="GitHub Streak" />
+    <img width="50%" src="https://streak-stats.demolab.com?user=oblipix&theme=transparent&background=00000000&border=654321&ring=654321&stroke=654321&fire=654321&currStreakNum=654321&sideNums=654321&currStreakLabel=654321&dates=654321&sideLabels=654321" alt="GitHub Streak" />
 </a>
+</p>
 
 
 
