@@ -18,9 +18,23 @@
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-- 🎓 Undergraduate student in Systems Analysis and Development and Postgraduate student in Software Engineering.
-- 💡 I have a great passion for front-end development and creating amazing interfaces.
-- 📚 SAlways learning and seeking new challenges.
+🎓 Undergraduate student in Systems Analysis and Development and Postgraduate student in Software Engineering.
+
+💡 Passionate Front-End Developer, focused on creating intuitive and responsive user interfaces.
+
+🚀 Constant learner, always exploring new technologies and best practices in web development.
+
+🖥️ Experienced with HTML, CSS, JavaScript, React, and TypeScript, and always improving in Angular and Next.js.
+
+🎨 Strong UI/UX skills, with a Google UX Design Professional Certificate.
+
+📚 Enthusiastic about clean code, design patterns, and software architecture.
+
+🌍 Mentor at Campinho Digital, helping others grow in tech.
+
+☁️ Certified AWS Cloud Practitioner, with knowledge in cloud computing.
+
+💾 Learning to expand into Full-Stack Development.
 
 
 
