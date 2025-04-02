@@ -18,25 +18,29 @@
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-🎓 Undergraduate student in Systems Analysis and Development and Postgraduate student in Software Engineering.
+<sup><sub>
 
-💡 Passionate Front-End Developer, focused on creating intuitive and responsive user interfaces.
+🎓 **Undergraduate student** in **Systems Analysis and Development** and **Postgraduate student** in **Software Engineering**.  
 
-🚀 Constant learner, always exploring new technologies and best practices in web development.
+💡 **Passionate Front-End Developer**, focused on **intuitive** and **responsive** user interfaces.  
 
-🖥️ Experienced with HTML, CSS, JavaScript, React, and TypeScript, and always improving in Angular and Next.js.
+🚀 **Constant learner**, always exploring **new technologies** and **best practices** in web development.  
 
-🎨 Strong UI/UX skills, with a Google UX Design Professional Certificate.
+🖥️ **Experienced** with **HTML, CSS, JavaScript, React, and TypeScript**, continuously improving in **Angular and Next.js**.  
 
-📚 Enthusiastic about clean code, design patterns, and software architecture.
+🎨 Strong **UI/UX skills**, holding a **Google UX Design Professional Certificate**.  
 
-🌍 Mentor at Campinho Digital, helping others grow in tech.
+📚 Enthusiastic about **clean code, design patterns, and software architecture**.  
 
-☁️ Certified AWS Cloud Practitioner, with knowledge in cloud computing.
+🌍 **Mentor at Campinho Digital**, supporting others in their tech journey.  
 
-💾 Learning to expand into Full-Stack Development.
+☁️ **AWS Certified Cloud Practitioner**, with knowledge in **cloud computing**.  
 
+💾 Expanding skills into **Full-Stack Development**.  
 
+🏅 **GitHub Certified Developer**, proficient in **version control** and **collaborative software development**.  
+
+</sub></sup>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 
