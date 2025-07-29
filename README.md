@@ -14,7 +14,7 @@
 
 
  
- <img align="right" alt="Oblipix" width="230" height="230" src="https://i.postimg.cc/ZqcwkYGP/IMG-0032.png">
+
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
@@ -28,7 +28,7 @@
 
 🖥️ **Experienced** with **HTML, CSS, JavaScript, React, and TypeScript**, continuously improving in **Angular and Next.js**.  
 
-🎨 Strong **UI/UX skills**, holding a **Google UX Design Professional Certificate**.  
+🎨 Strong **UI/UX skills**, holding a **Google UX Design Professional Certificate**.   <img align="right" alt="Oblipix" width="230" height="230" src="https://i.postimg.cc/ZqcwkYGP/IMG-0032.png">
 
 📚 Enthusiastic about **clean code, design patterns, and software architecture**.  
 
