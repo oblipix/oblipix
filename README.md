@@ -81,17 +81,12 @@
 
 ##  📊 Stats  
 <div align="center">
-      ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oblipix&cardType=github&bg_color=00000000&Text=654321&title_color=654321&border_color=654321&card_width=50" alt="readme-typing-svg">
+
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=654321&Title=654321&Ring=654321&Border=654321">
     <img width="50%" alt="Oblipix's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/oblipix?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=654321&Title=654321&Ring=654321&Border=654321" />
 </a>
 
-<p align="center">
-<a href="https://git.io/streak-stats">
-    <img width="50%" src="https://streak-stats.demolab.com?user=oblipix&theme=transparent&background=00000000&border=654321&ring=654321&stroke=654321&fire=654321&currStreakNum=654321&sideNums=654321&currStreakLabel=654321&dates=654321&sideLabels=654321" alt="GitHub Streak" />
-</a>
 </p>
 
 
