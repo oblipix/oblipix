@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=967777&width=435&separator=%3C&lines=string+nome+%3D+%22Maria+Carolina%22%3B%3CConsole.WriteLine(nome)%3B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A4D4D&width=435&separator=%3C&lines=string+nome+%3D+%22Maria+Carolina%22%3B%3CConsole.WriteLine(nome)%3B" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -23,10 +23,10 @@
   <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=oblipix&show_icons=true&bg_color=B6959547&title_color=8B4513&text_color=white&icon_color=8B4513" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=oblipix&show_icons=true&bg_color=B6959547&title_color=6A4D4D&text_color=967777&icon_color=6A4D4D" alt="GitHub Stats" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=oblipix&layout=compact&langs_count=7&bg_color=B6959547&title_color=8B4513&text_color=white&langs_colors=a0522d,c08552,d2b48c" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=oblipix&layout=compact&langs_count=7&bg_color=B6959547&title_color=6A4D4D&text_color=967777&langs_colors=a0522d,c08552,d2b48c" alt="Top Languages" />
       </td>
     </tr>
   </table>
