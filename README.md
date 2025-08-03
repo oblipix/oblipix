@@ -6,7 +6,7 @@
 
 
 
- ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+About+Me" alt="Typing SVG" /></a>
+ ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+Sobre+Mim" alt="Typing SVG" /></a>
 
 
 
