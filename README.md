@@ -1,12 +1,10 @@
 <img align="right" alt="Oblipix" width="2030" height="530" src="https://i.postimg.cc/25fgJ5Hy/wallpapprer.png">
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B4513&width=435&separator=%3C&lines=string+nome+%3D+%22Maria+Carolina%22%3B%3CConsole.WriteLine(nome)%3B" alt="Typing SVG" /></a>
 
-ㅤㅤㅤ
-
-
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&repeat=false&width=435&lines=%E2%9D%A4%EF%B8%8F+About+Me" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="https://img.shields.io/badge/❤️ About Me-D2B48C?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
+</div>
 
 <div align="center">
 
@@ -16,7 +14,9 @@ An **Undergraduate student** in **Systems Analysis and Development** and a **Pos
 
 ---
 
-### 💡 Skills and Technologies
+<div align="center">
+  <img src="https://img.shields.io/badge/💡 Skills and Technologies-D2B48C?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
+</div>
 
 I'm a technology enthusiast and am always seeking new knowledge.
 
@@ -55,7 +55,9 @@ I'm a technology enthusiast and am always seeking new knowledge.
 
 ---
 
-### 🏅 Certifications and Interests
+<div align="center">
+  <img src="https://img.shields.io/badge/🏅 Certifications and Interests-D2B48C?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
+</div>
 
 * **Google UX Design Professional Certificate**
 * **AWS Certified Cloud Practitioner**
@@ -67,23 +69,30 @@ I'm a technology enthusiast and am always seeking new knowledge.
 
 ---
 
-### 🚀 More About Me
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀 More About Me-D2B48C?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
+</div>
 
 I'm a **constant learner**, always exploring **new technologies** and **best practices** in web development.
 
 ---
 
-### 💖 Support My Work
+<div align="center">
+  <img src="https://img.shields.io/badge/💖 Support My Work-D2B48C?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
+</div>
 
-My passion for development and sharing knowledge is what drives me. Contributing to open-source projects and continuing my studies are essential parts of my journey.
-
-If you like my work and would like to help me continue learning and creating, please consider sponsoring me on GitHub. Every contribution helps me cover study costs and dedicate more time to the community.
+  My passion for development and sharing knowledge is what drives me. Contributing to open-source projects and continuing my studies are essential parts of my journey.
+ 
+  If you like my work and would like to help me continue learning and creating, please consider sponsoring me on GitHub. Every contribution helps me cover study costs and dedicate more time to the community.
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/oblipix?style=for-the-badge&logo=github&color=hotpink)](https://github.com/sponsors/oblipix)
 
 ---
 
-## 📲 Connect with me:
+<div align="center">
+  <img src="https://img.shields.io/badge/📲 Connect with me-D2B48C?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" />
+</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mariacarolinalv/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-D2B48C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
