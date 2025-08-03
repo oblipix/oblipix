@@ -1,9 +1,8 @@
-![Beige and Brown Fashion Twitter Header](https://github.com/user-attachments/assets/64ab63f3-8f17-48ed-8172-5faf8caade6c)
 
+ <img align="right" alt="Oblipix" width="2030" height="530" src="https://i.postimg.cc/25fgJ5Hy/wallpapprer.png">
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2B48C&width=435&separator=%3C&lines=const+nome+%3D+%22Maria+Carolina%22%3Cconsole.log(%60Hello%2C+%24%7BWorld%7D!%60);" alt="Typing SVG" /></a>
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B4513&width=435&separator=%3C&lines=string+nome+%3D+%22Maria+Carolina%22%3B%3CConsole.WriteLine(nome)%3B" alt="Typing SVG" /></a>
 
 
 
@@ -18,82 +17,72 @@
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-<sup><sub>
-
-🎓 **Undergraduate student** in **Systems Analysis and Development** and **Postgraduate student** in **Software Engineering**.  
-
-💡 **Passionate Front-End Developer**, focused on **intuitive** and **responsive** user interfaces.  
-
-🚀 **Constant learner**, always exploring **new technologies** and **best practices** in web development.  
-
-🖥️ **Experienced** with **HTML, CSS, JavaScript, React, and TypeScript**, continuously improving in **Angular and Next.js**.  
-
-🎨 Strong **UI/UX skills**, holding a **Google UX Design Professional Certificate**.   <img align="right" alt="Oblipix" width="230" height="230" src="https://i.postimg.cc/ZqcwkYGP/IMG-0032.png">
-
-📚 Enthusiastic about **clean code, design patterns, and software architecture**.  
-
-🌍 **Mentor at Campinho Digital**, supporting others in their tech journey.  
-
-☁️ **AWS Certified Cloud Practitioner**, with knowledge in **cloud computing**.  
-
-💾 Expanding skills into **Full-Stack Development**.  
-
-🏅 **GitHub Certified Developer**, proficient in **version control** and **collaborative software development**.  
-
-</sub></sup>
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-
-## 🛠️ Working with: 
-  <table align="center">
-    <tr>
-      ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-        <td align="center">
-             <img style="width: 100%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=MphIeq6id5N6&format=png&color=000000" alt="React"/>
-            <br>React
-        </td>
-        <td align="center">
-            <img style="width: 100%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=78095&format=png&color=000000" alt="Css"/>
-            <br>CSS
-        </td>
-        <td align="center">
-            <img  style="width: 90%; max-width: 300px;"src="https://img.icons8.com/?size=100&id=59916&format=png&color=000000" alt="Html"/>
-            <br>HTML
-        </td>
-       <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/windows/100/node-js.png" alt="nodejs"/>
-            <br>NodeJs
-        </td>
-        <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" alt="javascript-logo"/>
-            <br>Javascript
-        </td>
-          <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://img.icons8.com/?size=100&id=AqUNZvhJiaKK&format=png&color=000000" alt="angular-logo"/>
-            <br>Angular
-        </td>
-       
-    
-</table>
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-
-##  📊 Stats  
 <div align="center">
 
-
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=654321&Title=654321&Ring=654321&Border=654321">
-    <img width="50%" alt="Oblipix's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/oblipix?cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=654321&Title=654321&Ring=654321&Border=654321" />
-</a>
-
-</p>
-
-
+Estudante de **Análise e Desenvolvimento de Sistemas** e Pós-Graduanda em **Engenharia de Software**.                                                                                                                                                                                                                                                                                 
 
 </div>
-ㅤ
-ㅤㅤㅤㅤㅤ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+
+---
+
+### 💡 Habilidades e Tecnologias
+
+Sou uma entusiasta por tecnologia e estou sempre em busca de novos conhecimentos.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img style="width: 100%; max-width: 80px;" src="https://img.icons8.com/?size=100&id=59916&format=png&color=000000" alt="Html"/>
+      <br>HTML
+    </td>
+    <td align="center">
+      <img style="width: 100%; max-width: 80px;" src="https://img.icons8.com/?size=100&id=78095&format=png&color=000000" alt="Css"/>
+      <br>CSS
+    </td>
+    <td align="center">
+      <img style="width: 90%; max-width: 80px;" src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" alt="javascript-logo"/>
+      <br>Javascript
+    </td>
+        <td align="center">
+      <img style="width: 90%; max-width: 80px;" src="https://img.icons8.com/?size=100&id=AqUNZvhJiaKK&format=png&color=000000" alt="angular-logo"/>
+      <br>Angular
+    </td>
+   <td align="center">
+      <img style="width: 100%; max-width: 80px;" src="https://img.icons8.com/?size=100&id=MphIeq6id5N6&format=png&color=000000" alt="React"/>
+      <br>React
+    </td>
+    <td align="center">
+      <img style="width: 90%; max-width: 80px;" src="https://img.icons8.com/windows/100/node-js.png" alt="nodejs"/>
+      <br>NodeJs
+    </td>
+    <td align="center">
+      <img style="width: 90%; max-width: 80px;" src="https://img.icons8.com/?size=100&id=59952&format=png&color=000000" alt="sql"/>
+      <br>Sql
+    </td>
+  </tr>
+</table>
+
+
+
+---
+
+### 🏅 Certificações e Interesses
+
+* **Certificado Profissional de UX Design do Google**
+* **AWS Certified Cloud Practitioner**
+* **GitHub Certified Developer**
+* **GitHub Copilot**
+* **Mentor no Campinho Digital**
+* Em expansão de habilidades para **Desenvolvimento Full-Stack**.
+* Interesse em **código limpo**, **padrões de projeto** e **arquitetura de software**.
+---
+
+### 🚀 Mais sobre mim
+
+Sou uma **constante aprendiz**, sempre explorando **novas tecnologias** e **melhores práticas** no desenvolvimento web.
+
+---
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 ㅤ
 ㅤㅤㅤㅤ
 ㅤㅤㅤㅤ
