@@ -1,96 +1,37 @@
-<img align="right" alt="Oblipix" width="2030" height="530" src="https://i.postimg.cc/25fgJ5Hy/wallpapprer.png">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B4513&width=435&separator=%3C&lines=string+nome+%3D+%22Maria+Carolina%22%3B%3CConsole.WriteLine(nome)%3B" alt="Typing SVG" /></a>
-
-<h2 style="background-color: #D2B48C; color: white; padding: 8px 16px; border-radius: 6px; display: inline-block;">❤️ About Me</h2>
-
 <div align="center">
-
-An **Undergraduate student** in **Systems Analysis and Development** and a **Postgraduate student** in **Software Engineering**.
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B4513&width=435&separator=%3C&lines=string+nome+%3D+%22Maria+Carolina%22%3B%3CConsole.WriteLine(nome)%3B" alt="Typing SVG" /></a>
 </div>
 
 ---
 
-<h3 style="background-color: #D2B48C; color: white; padding: 8px 16px; border-radius: 6px; display: inline-block;">💡 Skills and Technologies</h3>
-
-I'm a technology enthusiast and am always seeking new knowledge.
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img style="width: 100%; max-width: 80px;" src="https://img.icons8.com/?size=100&id=59916&format=png&color=000000" alt="Html"/>
-      <br>HTML
-    </td>
-    <td align="center">
-      <img style="width: 100%; max-width: 80px;" src="https://img.icons8.com/?size=100&id=78095&format=png&color=000000" alt="Css"/>
-      <br>CSS
-    </td>
-    <td align="center">
-      <img style="width: 90%; max-width: 80px;" src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" alt="javascript-logo"/>
-      <br>Javascript
-    </td>
-    <td align="center">
-      <img style="width: 90%; max-width: 80px;" src="https://img.icons8.com/?size=100&id=AqUNZvhJiaKK&format=png&color=000000" alt="angular-logo"/>
-      <br>Angular
-    </td>
-    <td align="center">
-      <img style="width: 100%; max-width: 80px;" src="https://img.icons8.com/?size=100&id=MphIeq6id5N6&format=png&color=000000" alt="React"/>
-      <br>React
-    </td>
-    <td align="center">
-      <img style="width: 90%; max-width: 80px;" src="https://img.icons8.com/windows/100/node-js.png" alt="nodejs"/>
-      <br>NodeJs
-    </td>
-    <td align="center">
-      <img style="width: 90%; max-width: 80px;" src="https://img.icons8.com/?size=100&id=59952&format=png&color=000000" alt="sql"/>
-      <br>Sql
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 style="background-color: #D2B48C; color: white; padding: 8px 16px; border-radius: 6px; display: inline-block;">🏅 Certifications and Interests</h3>
-
-* **Google UX Design Professional Certificate**
-* **AWS Certified Cloud Practitioner**
-* **GitHub Certified Developer**
-* **GitHub Copilot**
-* **Mentor at Campinho Digital**
-* Expanding skills into **Full-Stack Development**.
-* Interested in **clean code**, **design patterns**, and **software architecture**.
-
----
-
-<h3 style="background-color: #D2B48C; color: white; padding: 8px 16px; border-radius: 6px; display: inline-block;">🚀 More About Me</h3>
-
-I'm a **constant learner**, always exploring **new technologies** and **best practices** in web development.
-
----
-
-<h3 style="background-color: #D2B48C; color: white; padding: 8px 16px; border-radius: 6px; display: inline-block;">💖 Support My Work</h3>
-
-My passion for development and sharing knowledge is what drives me. Contributing to open-source projects and continuing my studies are essential parts of my journey.
-
-If you like my work and would like to help me continue learning and creating, please consider sponsoring me on GitHub. Every contribution helps me cover study costs and dedicate more time to the community.
-
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/oblipix?style=for-the-badge&logo=github&color=hotpink)](https://github.com/sponsors/oblipix)
-
----
-
-<h3 style="background-color: #D2B48C; color: white; padding: 8px 16px; border-radius: 6px; display: inline-block;">📲 Connect with me</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/mariacarolinalv/" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-D2B48C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
-  </a>
-  <a href="mailto:mariacarolinatech@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/-Email-D2B48C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100" height="30" />
-  </a>
+  <p>
+    <img src="https://img.icons8.com/?size=100&id=78098&format=png&color=000000" alt="HTML5" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=78095&format=png&color=000000" alt="CSS3" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=78099&format=png&color=000000" alt="JavaScript" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=36387&format=png&color=000000" alt="AngularJS" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=0Da6k7SMq0hs&format=png&color=000000" alt="React" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=77694&format=png&color=000000" alt="SQL" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=Z5lGfGa07YxK&format=png&color=000000" alt="C#" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=Pov8Es0m6ZHz&format=png&color=000000" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=ch7vaHfrUfes&format=png&color=000000" alt="AWS" width="40" height="40"/>
+  </p>
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img width="100%"src="https://i.pinimg.com/736x/3b/91/66/3b9166b2907655a04c1f50f54960e218.jpg"/>
+  <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=oblipix&show_icons=true&bg_color=EEDDCC&title_color=8B4513&text_color=white&icon_color=8B4513" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=oblipix&layout=compact&langs_count=7&bg_color=EEDDCC&title_color=8B4513&text_color=white&langs_colors=a0522d,c08552,d2b48c" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mariacarolinalv/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-D2B48C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:mariacarolinatech@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D2B48C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
 </div>
