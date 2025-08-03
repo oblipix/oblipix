@@ -21,8 +21,16 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=oblipix&show_icons=true&bg_color=EEDDCC&title_color=8B4513&text_color=white&icon_color=8B4513" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=oblipix&layout=compact&langs_count=7&bg_color=EEDDCC&title_color=8B4513&text_color=white&langs_colors=a0522d,c08552,d2b48c" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api?username=oblipix&show_icons=true&bg_color=EEDDCC&title_color=8B4513&text_color=white&icon_color=8B4513" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=oblipix&layout=compact&langs_count=7&bg_color=EEDDCC&title_color=8B4513&text_color=white&langs_colors=a0522d,c08552,d2b48c" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
