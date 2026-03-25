@@ -6,14 +6,14 @@
 
 <div align="center">
   <p>
-    <img src="https://img.icons8.com/?size=100&id=78098&format=png&color=967777" alt="HTML5" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=78095&format=png&color=967777" alt="CSS3" width="40" height="40"/>
-    <img src="https://img.icons8.com/?size=100&id=78099&format=png&color=967777" alt="JavaScript" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=39853&format=png&color=967777" alt="JavaScript" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=36387&format=png&color=967777" alt="AngularJS" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=0Da6k7SMq0hs&format=png&color=967777" alt="React" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=77694&format=png&color=967777" alt="SQL" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=55204&format=png&color=967777" alt="C#" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=Pov8Es0m6ZHz&format=png&color=967777" alt="GitHub" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=967777" alt="Java" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=3753&format=png&color=967777" alt="PHP" width="40" height="40"/>
   </p>
 </div>
 
